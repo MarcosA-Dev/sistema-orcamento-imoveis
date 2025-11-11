@@ -1,4 +1,3 @@
-# sistema-orcamento-imoveis
 # Projeto: Sistema de Orçamento de Imóveis 
 
 Programa simples em **Python** que roda direto no **terminal**, feito para ajudar no cálculo e gerenciamento de orçamentos de imóveis.  
